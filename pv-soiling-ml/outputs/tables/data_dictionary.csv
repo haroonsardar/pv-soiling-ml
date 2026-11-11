@@ -1,0 +1,28 @@
+column,description,type,missing_%,min,max
+site_id,Site code given in this project (S001-S255),str,0.0,S001,S208
+month,Calendar month (1-12),int64,0.0,1,12
+soiling_pct_day,TARGET: soiling loss in % of energy per day (from NREL monthly soiling rate x -100),float64,1.5,0.01,0.59
+interval_count,Number of soiling intervals NREL used to estimate that month,float64,1.5,1.0,16.0
+tilt,Panel tilt angle (degrees),float64,0.0,0.0,35.0
+mounting_tracking,"1 = single-axis tracker, 0 = fixed",int64,0.0,0,1
+type,PV system or soiling station,str,0.0,PV System,Soiling Station
+state,U.S. state,str,0.0,AZ,OR
+PRECTOTCORR,Rainfall (mm/day),float64,0.0,0.01,6.01
+RH2M,Humidity (%),float64,0.0,15.36,83.82
+T2M,Temperature (C),float64,0.0,-2.52,34.93
+T2M_MAX,Max temperature (C),float64,0.0,11.71,50.84
+WS2M,Wind 2 m (m/s),float64,0.0,0.54,3.98
+WS10M,Wind 10 m (m/s),float64,0.0,1.76,5.55
+AOD_55,Aerosol optical depth,float64,0.0,0.04,0.51
+ALLSKY_SFC_SW_DWN,Solar radiation (kWh/m2/day),float64,0.0,1.2343,8.5632
+QV2M,Specific humidity (g/kg),float64,0.0,2.71,15.64
+rain_days,Rainy days (>=1 mm),float64,0.0,0.0,19.0
+dslr_mean,Days since last rain,float64,0.0,0.86,104.65
+max_dry_spell,Longest dry spell (days),float64,0.0,4.3,31.0
+rain_prev_month,Rain previous month,float64,0.0,0.01,6.01
+aod_annual,Yearly mean AOD,float64,0.0,0.0816666666666666,0.3183333333333333
+rain_annual,Yearly mean rain,float64,0.0,0.2125,3.4683333333333337
+aod_x_dslr,AOD x days since rain,float64,0.0,0.1444,11.5115
+dry_fraction,Dry fraction of month,float64,0.0,0.375,1.0
+month_sin,Month (sin),float64,0.0,-1.0,1.0
+month_cos,Month (cos),float64,0.0,-1.0,1.0

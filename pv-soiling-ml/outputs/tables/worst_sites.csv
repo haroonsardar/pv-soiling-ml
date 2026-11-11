@@ -1,0 +1,16 @@
+site_id,county,state,mean_measured,mean_pred,MAE
+S172,Imperial County,CA,0.2817,0.1423,0.1432
+S189,Sacramento County,CA,0.2658,0.1342,0.1316
+S207,Kern County,CA,0.2575,0.1307,0.1268
+S001,Maricopa County,AZ,0.1775,0.0697,0.1091
+S161,Kern County,CA,0.23,0.1396,0.0904
+S167,Kings County,CA,0.2542,0.2056,0.0864
+S162,Riverside County,CA,0.1117,0.1926,0.0835
+S184,Kings County,CA,0.2125,0.2734,0.0832
+S171,Kern County,CA,0.2208,0.1696,0.0827
+S090,Sacramento County,CA,0.0942,0.1748,0.0807
+S200,Merced County,CA,0.1167,0.19,0.0771
+S183,Los Angeles County,CA,0.1683,0.0953,0.0764
+S169,San Bernardino County,CA,0.1825,0.1137,0.0743
+S185,Kings County,CA,0.295,0.2458,0.0688
+S187,Kings County,CA,0.2492,0.2172,0.0677

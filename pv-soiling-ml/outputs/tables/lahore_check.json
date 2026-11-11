@@ -1,0 +1,9 @@
+{
+ "measured_Ullah_2020_pct_per_day": 0.8,
+ "predicted_Ridge regression": -0.0129,
+ "predicted_Random Forest": 0.2449,
+ "predicted_XGBoost": 0.2203,
+ "training_max_pct_per_day": 0.59,
+ "training_99th_percentile": 0.3776,
+ "lahore_months_with_out_of_range_inputs": 4
+}

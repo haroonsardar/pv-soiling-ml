@@ -1,0 +1,109 @@
+city,month,pred_best,pred_ridge_regression,pred_random_forest,pred_xgboost,n_features_outside_training_range,features_outside
+Bahawalpur,1,0.2108,-0.2457,0.1853,0.2108,2,"aod_annual, aod_x_dslr"
+Bahawalpur,2,0.1798,-0.212,0.1667,0.1798,2,"aod_annual, aod_x_dslr"
+Bahawalpur,3,0.135,-0.1661,0.1322,0.135,2,"aod_annual, aod_x_dslr"
+Bahawalpur,4,0.1223,-0.1477,0.1243,0.1223,1,aod_annual
+Bahawalpur,5,0.079,-0.0811,0.1108,0.079,3,"T2M, AOD_55, aod_annual"
+Bahawalpur,6,0.0761,-0.0983,0.1139,0.0761,3,"T2M, AOD_55, aod_annual"
+Bahawalpur,7,0.0804,-0.0944,0.1149,0.0804,3,"T2M, AOD_55, aod_annual"
+Bahawalpur,8,0.0908,-0.1744,0.1162,0.0908,3,"T2M, AOD_55, aod_annual"
+Bahawalpur,9,0.1017,-0.1839,0.1192,0.1017,2,"AOD_55, aod_annual"
+Bahawalpur,10,0.2057,-0.1578,0.1828,0.2057,3,"AOD_55, aod_annual, aod_x_dslr"
+Bahawalpur,11,0.2075,-0.1832,0.2005,0.2075,3,"AOD_55, aod_annual, aod_x_dslr"
+Bahawalpur,12,0.2156,-0.239,0.1956,0.2156,2,"aod_annual, aod_x_dslr"
+Faisalabad,1,0.2124,-0.1394,0.25,0.2124,3,"AOD_55, aod_annual, aod_x_dslr"
+Faisalabad,2,0.195,-0.1212,0.217,0.195,1,aod_annual
+Faisalabad,3,0.1857,-0.1093,0.2135,0.1857,1,aod_annual
+Faisalabad,4,0.1799,-0.1315,0.1778,0.1799,1,aod_annual
+Faisalabad,5,0.143,-0.0661,0.169,0.143,2,"AOD_55, aod_annual"
+Faisalabad,6,0.1382,-0.0357,0.1712,0.1382,4,"T2M, T2M_MAX, AOD_55, aod_annual"
+Faisalabad,7,0.1286,-0.0323,0.1579,0.1286,4,"T2M, AOD_55, QV2M, aod_annual"
+Faisalabad,8,0.1305,-0.1471,0.1583,0.1305,3,"AOD_55, QV2M, aod_annual"
+Faisalabad,9,0.2011,-0.1679,0.2093,0.2011,2,"AOD_55, aod_annual"
+Faisalabad,10,0.2448,-0.1129,0.2473,0.2448,2,"AOD_55, aod_annual"
+Faisalabad,11,0.3181,-0.1132,0.2886,0.3181,3,"AOD_55, aod_annual, aod_x_dslr"
+Faisalabad,12,0.3097,-0.1739,0.2799,0.3097,3,"AOD_55, aod_annual, aod_x_dslr"
+Hyderabad,1,0.1255,-0.2623,0.1357,0.1255,2,"aod_annual, aod_x_dslr"
+Hyderabad,2,0.132,-0.2575,0.1363,0.132,2,"aod_annual, aod_x_dslr"
+Hyderabad,3,0.1036,-0.2799,0.1199,0.1036,2,"aod_annual, aod_x_dslr"
+Hyderabad,4,0.1061,-0.4244,0.1235,0.1061,3,"AOD_55, aod_annual, aod_x_dslr"
+Hyderabad,5,0.0939,-0.5433,0.1204,0.0939,5,"WS2M, WS10M, AOD_55, aod_annual, aod_x_dslr"
+Hyderabad,6,0.0936,-0.4626,0.1198,0.0936,6,"WS2M, WS10M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Hyderabad,7,0.0937,-0.346,0.1176,0.0937,6,"WS2M, WS10M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Hyderabad,8,0.0906,-0.2976,0.113,0.0906,5,"WS2M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Hyderabad,9,0.0941,-0.2808,0.1187,0.0941,2,"AOD_55, aod_annual"
+Hyderabad,10,0.1114,-0.1995,0.126,0.1114,2,"aod_annual, aod_x_dslr"
+Hyderabad,11,0.1202,-0.1898,0.1394,0.1202,2,"aod_annual, aod_x_dslr"
+Hyderabad,12,0.1252,-0.2293,0.1337,0.1252,2,"aod_annual, aod_x_dslr"
+Islamabad,1,0.185,0.093,0.205,0.185,1,aod_annual
+Islamabad,2,0.1263,0.0967,0.1495,0.1263,1,aod_annual
+Islamabad,3,0.1153,0.077,0.1343,0.1153,1,aod_annual
+Islamabad,4,0.1132,0.0746,0.1358,0.1132,1,aod_annual
+Islamabad,5,0.1342,0.0973,0.1458,0.1342,1,aod_annual
+Islamabad,6,0.1465,0.1006,0.1611,0.1465,1,aod_annual
+Islamabad,7,0.2303,0.0586,0.1841,0.2303,8,"PRECTOTCORR, AOD_55, QV2M, rain_days, dslr_mean, max_dry_spell, aod_annual, dry_fraction"
+Islamabad,8,0.2111,-0.0285,0.1737,0.2111,4,"AOD_55, QV2M, rain_prev_month, aod_annual"
+Islamabad,9,0.1875,-0.0149,0.182,0.1875,1,aod_annual
+Islamabad,10,0.1549,0.061,0.1989,0.1549,1,aod_annual
+Islamabad,11,0.2154,0.1026,0.2321,0.2154,1,aod_annual
+Islamabad,12,0.2341,0.1025,0.2373,0.2341,1,aod_annual
+Karachi,1,0.1088,-0.2542,0.1233,0.1088,2,"aod_annual, aod_x_dslr"
+Karachi,2,0.1099,-0.2738,0.1228,0.1099,2,"aod_annual, aod_x_dslr"
+Karachi,3,0.1132,-0.2927,0.1242,0.1132,2,"aod_annual, aod_x_dslr"
+Karachi,4,0.1098,-0.4136,0.1211,0.1098,2,"aod_annual, aod_x_dslr"
+Karachi,5,0.1137,-0.6013,0.1204,0.1137,7,"WS2M, WS10M, AOD_55, QV2M, dslr_mean, aod_annual, aod_x_dslr"
+Karachi,6,0.1163,-0.5901,0.1206,0.1163,6,"WS2M, WS10M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Karachi,7,0.1121,-0.3954,0.1181,0.1121,6,"WS2M, WS10M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Karachi,8,0.1071,-0.3221,0.115,0.1071,5,"WS2M, AOD_55, QV2M, aod_annual, aod_x_dslr"
+Karachi,9,0.1022,-0.3034,0.1179,0.1022,3,"AOD_55, QV2M, aod_annual"
+Karachi,10,0.1105,-0.2628,0.1219,0.1105,2,"aod_annual, aod_x_dslr"
+Karachi,11,0.1225,-0.2525,0.1288,0.1225,2,"aod_annual, aod_x_dslr"
+Karachi,12,0.1197,-0.2494,0.1264,0.1197,2,"aod_annual, aod_x_dslr"
+Lahore,1,0.1889,-0.0056,0.2194,0.1889,1,aod_annual
+Lahore,2,0.1916,-0.0088,0.2029,0.1916,1,aod_annual
+Lahore,3,0.1842,-0.0042,0.206,0.1842,1,aod_annual
+Lahore,4,0.1653,-0.0045,0.1687,0.1653,1,aod_annual
+Lahore,5,0.141,0.0502,0.1661,0.141,2,"AOD_55, aod_annual"
+Lahore,6,0.1417,0.0535,0.1732,0.1417,3,"T2M, AOD_55, aod_annual"
+Lahore,7,0.1881,0.0404,0.1884,0.1881,3,"AOD_55, QV2M, aod_annual"
+Lahore,8,0.2193,-0.0835,0.184,0.2193,3,"AOD_55, QV2M, aod_annual"
+Lahore,9,0.1883,-0.0957,0.1876,0.1883,1,aod_annual
+Lahore,10,0.2025,-0.0268,0.2348,0.2025,1,aod_annual
+Lahore,11,0.2607,0.0061,0.2693,0.2607,1,aod_annual
+Lahore,12,0.229,-0.0254,0.256,0.229,1,aod_annual
+Multan,1,0.1766,-0.2499,0.1773,0.1766,2,"aod_annual, aod_x_dslr"
+Multan,2,0.144,-0.2211,0.1305,0.144,2,"aod_annual, aod_x_dslr"
+Multan,3,0.1378,-0.1826,0.1302,0.1378,2,"aod_annual, aod_x_dslr"
+Multan,4,0.122,-0.1751,0.1248,0.122,1,aod_annual
+Multan,5,0.0917,-0.0936,0.1168,0.0917,4,"T2M, T2M_MAX, AOD_55, aod_annual"
+Multan,6,0.0796,-0.1218,0.1111,0.0796,5,"T2M, T2M_MAX, AOD_55, aod_annual, aod_x_dslr"
+Multan,7,0.0901,-0.0839,0.1153,0.0901,3,"T2M, AOD_55, aod_annual"
+Multan,8,0.0891,-0.1601,0.1155,0.0891,3,"T2M, AOD_55, aod_annual"
+Multan,9,0.1083,-0.1643,0.1214,0.1083,2,"AOD_55, aod_annual"
+Multan,10,0.2743,-0.1629,0.2074,0.2743,3,"AOD_55, aod_annual, aod_x_dslr"
+Multan,11,0.2144,-0.2092,0.1947,0.2144,3,"AOD_55, aod_annual, aod_x_dslr"
+Multan,12,0.2228,-0.2613,0.1913,0.2228,2,"aod_annual, aod_x_dslr"
+Peshawar,1,0.2227,0.1767,0.2263,0.2227,0,
+Peshawar,2,0.212,0.1724,0.1923,0.212,0,
+Peshawar,3,0.1467,0.163,0.1641,0.1467,0,
+Peshawar,4,0.1741,0.1433,0.1833,0.1741,0,
+Peshawar,5,0.1824,0.1521,0.1775,0.1824,0,
+Peshawar,6,0.1732,0.1505,0.1896,0.1732,0,
+Peshawar,7,0.1476,0.0796,0.1503,0.1476,0,
+Peshawar,8,0.1388,0.0496,0.1507,0.1388,1,QV2M
+Peshawar,9,0.1964,0.0947,0.2022,0.1964,0,
+Peshawar,10,0.2288,0.166,0.238,0.2288,1,WS10M
+Peshawar,11,0.2509,0.1898,0.2588,0.2509,1,WS10M
+Peshawar,12,0.2498,0.1813,0.2562,0.2498,0,
+Quetta,1,0.1216,-0.0396,0.1302,0.1216,0,
+Quetta,2,0.0993,-0.0426,0.1237,0.0993,0,
+Quetta,3,0.0927,-0.0242,0.1205,0.0927,0,
+Quetta,4,0.0939,-0.0134,0.1174,0.0939,0,
+Quetta,5,0.0888,-0.0177,0.1041,0.0888,0,
+Quetta,6,0.1171,-0.0096,0.1206,0.1171,0,
+Quetta,7,0.1195,0.0089,0.1258,0.1195,0,
+Quetta,8,0.1643,0.0259,0.1393,0.1643,0,
+Quetta,9,0.1652,0.0126,0.1405,0.1652,0,
+Quetta,10,0.1194,-0.0221,0.1258,0.1194,0,
+Quetta,11,0.1232,-0.0196,0.1307,0.1232,0,
+Quetta,12,0.1235,-0.0186,0.1332,0.1235,1,QV2M

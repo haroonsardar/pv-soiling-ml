@@ -1,0 +1,248 @@
+{
+ "Site-held-out (main) | Baseline (monthly mean)": [],
+ "Site-held-out (main) | Ridge regression": [
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 300
+  },
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 300
+  },
+  {
+   "ridge__alpha": 1
+  }
+ ],
+ "Site-held-out (main) | Random Forest": [
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 10
+  },
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 10
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  }
+ ],
+ "Site-held-out (main) | XGBoost": [
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 3,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 3,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 3,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 1.0,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  }
+ ],
+ "Grid-cell-held-out (strict) | Baseline (monthly mean)": [],
+ "Grid-cell-held-out (strict) | Ridge regression": [
+  {
+   "ridge__alpha": 300
+  },
+  {
+   "ridge__alpha": 0.1
+  },
+  {
+   "ridge__alpha": 0.1
+  },
+  {
+   "ridge__alpha": 300
+  },
+  {
+   "ridge__alpha": 300
+  }
+ ],
+ "Grid-cell-held-out (strict) | Random Forest": [
+  {
+   "max_depth": 4,
+   "max_features": 0.3,
+   "min_samples_leaf": 25
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 10
+  },
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": 4,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  }
+ ],
+ "Grid-cell-held-out (strict) | XGBoost": [
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 5,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 1.0,
+   "learning_rate": 0.1,
+   "max_depth": 5,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  }
+ ],
+ "Random split (for comparison only) | Baseline (monthly mean)": [],
+ "Random split (for comparison only) | Ridge regression": [
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 10
+  },
+  {
+   "ridge__alpha": 10
+  }
+ ],
+ "Random split (for comparison only) | Random Forest": [
+  {
+   "max_depth": null,
+   "max_features": 0.3,
+   "min_samples_leaf": 10
+  },
+  {
+   "max_depth": null,
+   "max_features": 0.6,
+   "min_samples_leaf": 10
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  },
+  {
+   "max_depth": 8,
+   "max_features": 0.3,
+   "min_samples_leaf": 3
+  }
+ ],
+ "Random split (for comparison only) | XGBoost": [
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 1.0,
+   "learning_rate": 0.03,
+   "max_depth": 3,
+   "min_child_weight": 20,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 1.0,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  },
+  {
+   "colsample_bytree": 0.6,
+   "learning_rate": 0.03,
+   "max_depth": 2,
+   "min_child_weight": 5,
+   "subsample": 0.8
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+scheme,model,MAE,RMSE,R2,MAE_fold_sd,RMSE_fold_sd,R2_fold_sd
+site,Baseline (monthly mean),0.0466,0.0671,0.0321,0.0044,0.0106,0.0876
+site,Spatial kNN (IDW),0.0385,0.057,0.3012,0.0055,0.0099,0.2955
+site,Random Forest,0.0383,0.0548,0.3533,0.0038,0.0081,0.1254
+site,XGBoost,0.0383,0.0539,0.3761,0.0034,0.0072,0.1636
+site,XGBoost without AOD,0.0389,0.0545,0.3602,0.0038,0.0072,0.1674
+cell,Baseline (monthly mean),0.0484,0.0689,-0.0199,0.0151,0.0228,0.1383
+cell,Spatial kNN (IDW),0.0417,0.0569,0.3037,0.0086,0.011,0.3416
+cell,Random Forest,0.0491,0.0675,0.0207,0.0092,0.0154,0.3044
+cell,XGBoost,0.0491,0.0664,0.0525,0.0079,0.0131,0.3983
+cell,XGBoost without AOD,0.0501,0.0681,0.0009,0.0078,0.0123,0.4594

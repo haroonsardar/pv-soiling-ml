@@ -1,0 +1,22 @@
+{
+ "xgb_noaod_params": {
+  "est__colsample_bytree": 0.6,
+  "est__learning_rate": 0.03,
+  "est__max_depth": 3,
+  "est__min_child_weight": 5,
+  "est__subsample": 0.8
+ },
+ "lahore_oct_jan_xgb_noaod": 0.2531,
+ "city_means_xgb_noaod": {
+  "Bahawalpur": 0.1379999965429306,
+  "Faisalabad": 0.23100000619888306,
+  "Hyderabad": 0.11599999666213989,
+  "Islamabad": 0.19200000166893005,
+  "Karachi": 0.11599999666213989,
+  "Lahore": 0.21899999678134918,
+  "Multan": 0.14800000190734863,
+  "Peshawar": 0.20999999344348907,
+  "Quetta": 0.11599999666213989
+ },
+ "pk_city_months_out_of_range_noaod": 0.269
+}

@@ -1,0 +1,6 @@
+region,MAE,RMSE,R2,sites,bias
+Arizona,0.0404,0.0546,0.3138,14.0,-0.0023
+Central California,0.0614,0.0794,0.372,20.0,-0.0119
+Northern California,0.0642,0.0864,-0.0367,6.0,-0.0
+Other US,0.0522,0.0608,-0.3036,4.0,0.0068
+Southern California,0.0315,0.0441,0.0457,102.0,0.0037

@@ -1,0 +1,13 @@
+,value
+sites in NREL file,255.0
+sites with only '>0.99' annual IWSR (censored),109.0
+sites with monthly soiling rates,146.0
+site-month rows,1752.0
+rows with 'Insufficient data',27.0
+rows used for modelling,1725.0
+unique site locations,133.0
+counties,23.0
+target mean (%/day),0.1183
+target median (%/day),0.1
+target min (%/day),0.01
+target max (%/day),0.59

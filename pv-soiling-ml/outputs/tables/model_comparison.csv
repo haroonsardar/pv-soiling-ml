@@ -1,0 +1,13 @@
+scheme,model,MAE,MAE_fold_sd,RMSE,RMSE_fold_sd,R2,R2_fold_sd
+Site-held-out (main),Baseline (monthly mean),0.0466,0.0044,0.0671,0.0106,0.0321,0.0876
+Site-held-out (main),Ridge regression,0.0447,0.004,0.0637,0.0094,0.1272,0.0912
+Site-held-out (main),Random Forest,0.0383,0.0038,0.0548,0.0081,0.3533,0.1254
+Site-held-out (main),XGBoost,0.0383,0.0034,0.0539,0.0072,0.3761,0.1636
+Grid-cell-held-out (strict),Baseline (monthly mean),0.0484,0.0151,0.0689,0.0228,-0.0199,0.1383
+Grid-cell-held-out (strict),Ridge regression,0.0535,0.0106,0.0738,0.0162,-0.1726,0.4138
+Grid-cell-held-out (strict),Random Forest,0.0491,0.0092,0.0675,0.0154,0.0207,0.3044
+Grid-cell-held-out (strict),XGBoost,0.0491,0.0079,0.0664,0.0131,0.0525,0.3983
+Random split (for comparison only),Baseline (monthly mean),0.0467,0.0026,0.0672,0.0069,0.0295,0.0264
+Random split (for comparison only),Ridge regression,0.0435,0.0026,0.0613,0.0061,0.1923,0.0527
+Random split (for comparison only),Random Forest,0.036,0.0026,0.0507,0.005,0.4462,0.0689
+Random split (for comparison only),XGBoost,0.0349,0.0019,0.0489,0.004,0.4858,0.0839

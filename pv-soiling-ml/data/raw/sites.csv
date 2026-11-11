@@ -1,0 +1,256 @@
+site_id,type,iwsr,iwsr_lower,iwsr_upper,months_in_data,lat,lon,tilt,county,state,mounting
+S001,PV System,0.96,0.949,0.973,46.8,33.37,-112.58,8,Maricopa County,AZ,Fixed
+S002,PV System,>0.99,>0.99,>0.99,67.9,32.94,-111.74,12,Pinal County,AZ,Fixed
+S003,PV System,0.939,0.931,0.959,58.4,32.68,-114.67,25,Yuma County,AZ,Fixed
+S004,PV System,0.975,0.967,0.982,34.5,32.69,-114.63,6,Yuma County,AZ,Fixed
+S005,PV System,>0.99,>0.99,>0.99,30.4,32.71,-114.67,15,Yuma County,AZ,Fixed
+S006,PV System,0.96,0.94,0.973,56.2,32.59,-114.66,3,Yuma County,AZ,Fixed
+S007,PV System,0.967,0.951,0.986,106.9,32.6,-112.71,12,Maricopa County,AZ,Fixed
+S008,PV System,0.933,0.916,0.95,39.2,32.6,-114.71,3,Yuma County,AZ,Fixed
+S009,PV System,0.984,0.981,0.992,57,33.63,-112.38,12,Maricopa County,AZ,Fixed
+S010,PV System,0.982,0.977,0.991,75.3,33.64,-112.39,13.5,Maricopa County,AZ,Fixed
+S011,PV System,>0.99,>0.99,>0.99,57,33.63,-112.38,12,Maricopa County,AZ,Fixed
+S012,PV System,>0.99,>0.99,>0.99,98.6,32.45,-111.21,12,Pima County,AZ,Fixed
+S013,PV System,0.987,0.984,0.994,97.9,33.59,-112.24,12,Maricopa County,AZ,Fixed
+S014,PV System,0.988,0.984,0.993,98.1,33.59,-112.24,12,Maricopa County,AZ,Fixed
+S015,PV System,0.95,0.934,0.964,95.2,34.05,-117.52,12,San Bernardino County,CA,Fixed
+S016,PV System,0.95,0.94,0.964,52,34.05,-117.53,11,San Bernardino County,CA,Fixed
+S017,PV System,0.979,0.969,0.987,73.7,34.5,-118.62,7,Los Angeles County,CA,Fixed
+S018,PV System,0.969,0.963,0.979,81.8,34.47,-118.63,7,Los Angeles County,CA,Fixed
+S019,PV System,0.969,0.965,0.984,57.3,34.47,-118.63,7,Los Angeles County,CA,Fixed
+S020,PV System,>0.99,>0.99,>0.99,58.5,33.46,-112.14,12,Maricopa County,AZ,Fixed
+S021,PV System,>0.99,>0.99,>0.99,67.9,33.56,-112.3,13.5,Maricopa County,AZ,Fixed
+S022,PV System,>0.99,>0.99,>0.99,57.3,33.69,-112.27,13.5,Maricopa County,AZ,Fixed
+S023,PV System,>0.99,>0.99,>0.99,47.5,33.67,-112.27,13.5,Maricopa County,AZ,Fixed
+S024,PV System,0.988,0.983,0.994,85.8,32.23,-110.88,12,Pima County,AZ,Fixed
+S025,PV System,0.977,0.972,0.983,82.4,34.12,-117.61,7.49,San Bernardino County,CA,Fixed
+S026,PV System,0.977,0.968,0.984,53.8,34.13,-117.51,7.49,San Bernardino County,CA,Fixed
+S027,PV System,0.97,0.948,0.981,76.8,34.13,-117.55,15,San Bernardino County,CA,Fixed
+S028,PV System,>0.99,>0.99,>0.99,49.4,32.21,-110.97,12,Pima County,AZ,Fixed
+S029,PV System,>0.99,>0.99,>0.99,0,32.21,-110.94,12,Pima County,AZ,Fixed
+S030,PV System,0.981,0.975,0.987,45.8,34.08,-117.65,7.49,San Bernardino County,CA,Fixed
+S031,PV System,0.946,0.945,0.97,55.6,34.02,-117.57,7.49,San Bernardino County,CA,Fixed
+S032,PV System,0.965,0.956,0.975,81.8,34.07,-117.7,7.49,San Bernardino County,CA,Fixed
+S033,PV System,0.981,0.977,0.992,34.7,32.17,-111,12,Pima County,AZ,Fixed
+S034,PV System,>0.99,>0.99,>0.99,34.7,32.19,-111.01,12,Pima County,AZ,Fixed
+S035,PV System,>0.99,>0.99,>0.99,0,32.28,-110.8,12,Pima County,AZ,Fixed
+S036,PV System,>0.99,>0.99,>0.99,0,32.26,-110.94,12,Pima County,AZ,Fixed
+S037,PV System,>0.99,>0.99,>0.99,79.8,32.27,-110.91,12,Pima County,AZ,Fixed
+S038,PV System,>0.99,>0.99,>0.99,58,34.98,-114.55,22,Mohave County,AZ,Fixed
+S039,PV System,>0.99,>0.99,>0.99,0,32.27,-110.83,12,Pima County,AZ,Fixed
+S040,PV System,>0.99,>0.99,>0.99,79.6,32.24,-111,12,Pima County,AZ,Fixed
+S041,PV System,>0.99,>0.99,>0.99,78.5,32.25,-110.9,12,Pima County,AZ,Fixed
+S042,PV System,0.965,0.95,0.975,73.9,34.1,-118.11,7.49,Los Angeles County,CA,Fixed
+S043,PV System,0.961,0.958,0.978,71.2,34.1,-118.11,7.49,Los Angeles County,CA,Fixed
+S044,PV System,0.968,0.958,0.975,45.2,34.1,-118.11,7.49,Los Angeles County,CA,Fixed
+S045,PV System,0.971,0.962,0.98,48.4,34.1,-118.08,7.49,Los Angeles County,CA,Fixed
+S046,PV System,0.962,0.957,0.977,72.8,34.08,-118.1,7.49,Los Angeles County,CA,Fixed
+S047,PV System,0.95,0.938,0.959,72.9,34.1,-118.09,5,Los Angeles County,CA,Fixed
+S048,PV System,0.972,0.965,0.98,29.7,34.12,-118.09,7.49,Los Angeles County,CA,Fixed
+S049,PV System,0.971,0.965,0.983,72.9,34.1,-117.61,7.49,San Bernardino County,CA,Fixed
+S050,PV System,0.977,0.962,0.984,68.3,34.12,-117.6,30,San Bernardino County,CA,Fixed
+S051,PV System,0.978,0.976,0.989,55.8,34.12,-117.58,7.49,San Bernardino County,CA,Fixed
+S052,PV System,0.973,0.969,0.986,72.8,34.12,-117.58,7.49,San Bernardino County,CA,Fixed
+S053,PV System,0.95,0.94,0.965,59.9,34.02,-117.78,7.49,Los Angeles County,CA,Fixed
+S054,PV System,>0.99,>0.99,>0.99,0,32.19,-111.14,12,Pima County,AZ,Fixed
+S055,PV System,>0.99,>0.99,>0.99,48,32.14,-111.07,10,Pima County,AZ,Fixed
+S056,PV System,0.98,0.979,0.99,63.6,33.62,-117.68,7.49,Orange County,CA,Fixed
+S057,PV System,0.979,0.973,0.987,65.6,33.64,-117.69,7.49,Orange County,CA,Fixed
+S058,PV System,0.985,0.976,0.991,65.4,33.59,-117.7,7.49,Orange County,CA,Fixed
+S059,PV System,0.978,0.971,0.986,49.4,33.6,-117.67,7.49,Orange County,CA,Fixed
+S060,PV System,0.98,0.974,0.987,63.6,33.65,-117.65,7.49,Orange County,CA,Fixed
+S061,PV System,>0.99,>0.99,>0.99,0,32.34,-111,12,Pima County,AZ,Fixed
+S062,PV System,>0.99,>0.99,>0.99,61,32.27,-110.95,12,Pima County,AZ,Fixed
+S063,PV System,>0.99,>0.99,>0.99,59.3,32.3,-111,12,Pima County,AZ,Fixed
+S064,PV System,>0.99,>0.99,>0.99,0,32.28,-110.99,12,Pima County,AZ,Fixed
+S065,PV System,>0.99,>0.99,>0.99,63.7,32.26,-110.96,12,Pima County,AZ,Fixed
+S066,PV System,0.972,0.963,0.982,55.2,34.07,-117.79,7.49,Los Angeles County,CA,Fixed
+S067,PV System,0.978,0.979,0.991,63.4,32.26,-110.98,12,Pima County,AZ,Fixed
+S068,PV System,0.985,0.98,0.992,64.2,32.28,-110.95,12,Pima County,AZ,Fixed
+S069,PV System,>0.99,>0.99,>0.99,63.7,32.29,-110.98,12,Pima County,AZ,Fixed
+S070,PV System,>0.99,>0.99,>0.99,0,32.28,-110.97,12,Pima County,AZ,Fixed
+S071,PV System,>0.99,>0.99,>0.99,0,32.48,-110.92,12,Pima County,AZ,Fixed
+S072,PV System,>0.99,>0.99,>0.99,58.1,32.27,-110.97,12,Pima County,AZ,Fixed
+S073,PV System,>0.99,>0.99,>0.99,0,32.37,-110.97,12,Pima County,AZ,Fixed
+S074,PV System,>0.99,>0.99,>0.99,39.6,32.43,-110.99,12,Pima County,AZ,Fixed
+S075,PV System,>0.99,>0.99,>0.99,0,32.44,-110.97,12,Pima County,AZ,Fixed
+S076,PV System,>0.99,>0.99,>0.99,0,32.42,-111.02,12,Pima County,AZ,Fixed
+S077,PV System,0.975,0.967,0.981,63.2,34.41,-118.47,7.49,Los Angeles County,CA,Fixed
+S078,PV System,0.972,0.968,0.986,58.9,34.4,-118.45,7.49,Los Angeles County,CA,Fixed
+S079,PV System,0.985,0.979,0.989,63.4,34.39,-118.46,7.49,Los Angeles County,CA,Fixed
+S080,PV System,0.977,0.971,0.986,62.4,34.43,-118.46,7.49,Los Angeles County,CA,Fixed
+S081,PV System,0.977,0.972,0.986,62.9,34.45,-118.42,7.49,Los Angeles County,CA,Fixed
+S082,PV System,0.963,0.962,0.982,63.2,34.43,-118.43,7.49,Los Angeles County,CA,Fixed
+S083,PV System,0.972,0.966,0.981,63.5,34.4,-118.48,7.49,Los Angeles County,CA,Fixed
+S084,PV System,0.954,0.944,0.967,58.5,34.12,-117.62,7.49,San Bernardino County,CA,Fixed
+S085,PV System,0.975,0.969,0.984,64.2,34.13,-117.58,7.49,San Bernardino County,CA,Fixed
+S086,PV System,0.963,0.955,0.979,64.2,36.78,-117.42,7.49,Inyo County,CA,Fixed
+S087,PV System,0.967,0.961,0.977,56.4,34.15,-117.58,7.49,San Bernardino County,CA,Fixed
+S088,PV System,0.975,0.967,0.982,46.5,34.15,-117.62,7.49,San Bernardino County,CA,Fixed
+S089,PV System,0.958,0.943,0.973,67.2,33.73,-118.28,10,Los Angeles County,CA,Fixed
+S090,PV System,0.971,0.963,0.976,56,38.57,-121.35,12,Sacramento County,CA,Fixed
+S091,PV System,0.977,0.967,0.984,61.3,39.91,-122.1,30,Tehama County,CA,Fixed
+S092,PV System,0.958,0.949,0.971,50.6,34.09,-117.61,7.49,San Bernardino County,CA,Fixed
+S093,PV System,0.962,0.953,0.974,53.6,33.92,-118.35,7.49,Los Angeles County,CA,Fixed
+S094,PV System,0.974,0.97,0.985,53.6,33.92,-118.36,7.49,Los Angeles County,CA,Fixed
+S095,PV System,0.974,0.966,0.983,53.7,33.91,-118.34,7.49,Los Angeles County,CA,Fixed
+S096,PV System,0.975,0.97,0.986,53.6,33.91,-118.36,7.49,Los Angeles County,CA,Fixed
+S097,PV System,0.965,0.954,0.974,53.6,33.93,-118.34,7.49,Los Angeles County,CA,Fixed
+S098,PV System,0.963,0.953,0.974,54.6,34.1,-117.59,7.49,San Bernardino County,CA,Fixed
+S099,PV System,0.968,0.961,0.978,53,34.09,-117.59,7.49,San Bernardino County,CA,Fixed
+S100,PV System,0.963,0.954,0.97,54.2,34.1,-117.62,7.49,San Bernardino County,CA,Fixed
+S101,PV System,0.956,0.949,0.968,54.6,34.07,-117.58,7.49,San Bernardino County,CA,Fixed
+S102,PV System,0.968,0.956,0.976,54,34.02,-117.57,7.49,San Bernardino County,CA,Fixed
+S103,PV System,0.953,0.946,0.966,53.2,34.02,-117.58,7.49,San Bernardino County,CA,Fixed
+S104,PV System,0.965,0.96,0.977,45,34.03,-117.59,7.49,San Bernardino County,CA,Fixed
+S105,PV System,0.966,0.958,0.979,35.8,34.01,-117.59,7.49,San Bernardino County,CA,Fixed
+S106,PV System,0.964,0.959,0.975,57.3,34.12,-117.71,7.49,Los Angeles County,CA,Fixed
+S107,PV System,0.98,0.974,0.987,55.9,34.11,-117.72,7.49,Los Angeles County,CA,Fixed
+S108,PV System,0.964,0.956,0.976,57.3,34.12,-117.73,7.49,Los Angeles County,CA,Fixed
+S109,PV System,0.971,0.966,0.979,56.9,34.08,-117.72,7.49,Los Angeles County,CA,Fixed
+S110,PV System,0.965,0.959,0.977,56.9,34.1,-117.73,7.49,Los Angeles County,CA,Fixed
+S111,PV System,0.968,0.958,0.983,36.3,34.11,-117.73,7.49,Los Angeles County,CA,Fixed
+S112,PV System,0.98,0.972,0.985,34.9,34.12,-117.74,7.49,Los Angeles County,CA,Fixed
+S113,PV System,0.96,0.953,0.97,52.7,34.1,-117.72,7.49,Los Angeles County,CA,Fixed
+S114,PV System,0.954,0.945,0.965,55.9,34.14,-117.85,7.49,Los Angeles County,CA,Fixed
+S115,PV System,0.968,0.961,0.975,55.9,34.13,-117.84,7.49,Los Angeles County,CA,Fixed
+S116,PV System,0.944,0.953,0.976,56,34.15,-117.85,7.49,Los Angeles County,CA,Fixed
+S117,PV System,0.966,0.958,0.973,55.9,34.14,-117.85,7.49,Los Angeles County,CA,Fixed
+S118,PV System,0.967,0.96,0.977,55.9,34.13,-117.88,7.49,Los Angeles County,CA,Fixed
+S119,PV System,0.969,0.96,0.976,55.7,34.12,-117.87,7.49,Los Angeles County,CA,Fixed
+S120,PV System,0.973,0.969,0.982,55.7,34.13,-117.85,7.49,Los Angeles County,CA,Fixed
+S121,PV System,0.961,0.954,0.972,57.7,34.11,-117.49,7.49,San Bernardino County,CA,Fixed
+S122,PV System,0.978,0.972,0.987,57.7,34.14,-117.52,7.49,San Bernardino County,CA,Fixed
+S123,PV System,0.968,0.964,0.979,57,34.12,-117.5,7.49,San Bernardino County,CA,Fixed
+S124,PV System,0.976,0.97,0.984,57.6,34.16,-117.49,7.49,San Bernardino County,CA,Fixed
+S125,PV System,0.968,0.961,0.977,57.7,34.11,-117.52,7.49,San Bernardino County,CA,Fixed
+S126,PV System,0.975,0.969,0.983,57.7,34.13,-117.47,7.49,San Bernardino County,CA,Fixed
+S127,PV System,0.976,0.972,0.982,57.7,34.11,-117.51,9.49,San Bernardino County,CA,Fixed
+S128,PV System,0.977,0.973,0.987,54.2,34.13,-117.53,7.49,San Bernardino County,CA,Fixed
+S129,PV System,0.977,0.968,0.985,36,34.18,-117.31,5,San Bernardino County,CA,Fixed
+S130,PV System,>0.99,>0.99,>0.99,30.3,33.26,-116.38,7,San Diego County,CA,Fixed
+S131,PV System,0.978,0.969,0.988,36.4,34.11,-117.25,6,San Bernardino County,CA,Fixed
+S132,PV System,>0.99,>0.99,>0.99,0,32.25,-110.92,12,Pima County,AZ,Fixed
+S133,PV System,>0.99,>0.99,>0.99,0,32.23,-110.96,12,Pima County,AZ,Fixed
+S134,PV System,>0.99,>0.99,>0.99,39,32.21,-110.88,12,Pima County,AZ,Fixed
+S135,PV System,0.963,0.954,0.969,36.2,34.14,-117.24,9,San Bernardino County,CA,Fixed
+S136,PV System,>0.99,>0.99,>0.99,0,32.17,-110.98,12,Pima County,AZ,Fixed
+S137,PV System,0.965,0.955,0.973,35,34.13,-117.26,5,San Bernardino County,CA,Fixed
+S138,PV System,>0.99,>0.99,>0.99,0,32.15,-111.03,12,Pima County,AZ,Fixed
+S139,PV System,>0.99,>0.99,>0.99,39.6,32.2,-110.9,12,Pima County,AZ,Fixed
+S140,PV System,0.963,0.968,0.984,36,34.15,-117.25,8,San Bernardino County,CA,Fixed
+S141,PV System,>0.99,>0.99,>0.99,0,32.23,-110.81,12,Pima County,AZ,Fixed
+S142,PV System,>0.99,>0.99,>0.99,0,32.2,-110.78,12,Pima County,AZ,Fixed
+S143,PV System,>0.99,>0.99,>0.99,0,32.18,-111,12,Pima County,AZ,Fixed
+S144,PV System,>0.99,>0.99,>0.99,0,32.22,-110.94,12,Pima County,AZ,Fixed
+S145,PV System,>0.99,>0.99,>0.99,0,32.21,-110.81,15,Pima County,AZ,Fixed
+S146,PV System,>0.99,>0.99,>0.99,0,32.22,-110.94,15,Pima County,AZ,Fixed
+S147,PV System,>0.99,>0.99,>0.99,0,32.2,-110.97,15,Pima County,AZ,Fixed
+S148,PV System,>0.99,>0.99,>0.99,0,32.23,-110.81,14,Pima County,AZ,Fixed
+S149,PV System,>0.99,>0.99,>0.99,0,32.19,-110.94,12,Pima County,AZ,Fixed
+S150,PV System,>0.99,>0.99,>0.99,0,32.23,-110.95,12,Pima County,AZ,Fixed
+S151,PV System,>0.99,>0.99,>0.99,0,32.18,-110.82,6,Pima County,AZ,Fixed
+S152,PV System,>0.99,>0.99,>0.99,0,32.18,-110.82,6,Pima County,AZ,Fixed
+S153,PV System,>0.99,>0.99,>0.99,0,32.18,-110.97,6,Pima County,AZ,Fixed
+S154,PV System,0.979,0.969,0.984,25,34.09,-117.27,10,San Bernardino County,CA,Fixed
+S155,PV System,0.983,0.977,0.99,31,33.83,-116.48,12,Riverside County,CA,Fixed
+S156,PV System,0.978,0.97,0.985,50.4,32.58,-116.92,12,San Diego County,CA,Fixed
+S157,PV System,>0.99,>0.99,>0.99,0,39.27,-74.65,25,Cape May County,NJ,Fixed
+S158,PV System,0.972,0.963,0.978,49.5,32.73,-117.18,15,San Diego County,CA,Fixed
+S159,PV System,0.944,0.927,0.956,46.1,38.35,-121.41,0,Sacramento County,CA,Tracking
+S160,PV System,0.951,0.951,0.969,43.7,38.3,-121.3,0,Sacramento County,CA,Tracking
+S161,PV System,0.931,0.907,0.95,118,35.38,-119.11,10,Kern County,CA,Fixed
+S162,PV System,0.969,0.963,0.976,52.3,33.52,-117.16,0,Riverside County,CA,Fixed
+S163,PV System,0.959,0.953,0.97,63.7,33.99,-117.93,0,Los Angeles County,CA,Fixed
+S164,PV System,0.967,0.963,0.981,69.8,37.53,-122,0,Alameda County,CA,Fixed
+S165,PV System,0.944,0.942,0.964,72.7,34.28,-118.77,0,Ventura County,CA,Fixed
+S166,PV System,0.971,0.96,0.981,85.3,34.08,-117.53,15,San Bernardino County,CA,Fixed
+S167,PV System,0.934,0.92,0.946,85.3,36.26,-119.65,0,Kings County,CA,Fixed
+S168,PV System,0.946,0.934,0.958,52.7,36.52,-119.56,0,Fresno County,CA,Fixed
+S169,PV System,0.93,0.916,0.939,87.5,34.08,-117.23,5,San Bernardino County,CA,Fixed
+S170,PV System,0.942,0.919,0.961,48.2,34.01,-117.96,10,Los Angeles County,CA,Fixed
+S171,PV System,0.95,0.905,0.969,29.7,35,-119,0,Kern County,CA,Tracking
+S172,PV System,0.944,0.918,0.958,42.4,33,-115,0,Imperial County,CA,Tracking
+S173,PV System,0.964,0.952,0.976,78.6,33,-116,25,Imperial County,CA,Fixed
+S174,PV System,0.958,0.94,0.975,60.3,37,-120,0,Fresno County,CA,Tracking
+S175,PV System,0.955,0.935,0.969,72.4,33,-115,0,Imperial County,CA,Tracking
+S176,PV System,0.952,0.93,0.966,71.9,33,-115,0,Imperial County,CA,Tracking
+S177,PV System,0.954,0.929,0.967,70.9,33,-115,0,Imperial County,CA,Tracking
+S178,PV System,>0.99,>0.99,>0.99,0,33,-85.01,20,Troup County,GA,Fixed
+S179,PV System,>0.99,>0.99,>0.99,28.1,34.41,-78.62,20,Columbus County,NC,Fixed
+S180,PV System,0.951,0.921,0.957,26,43.94,-117.38,0,Malheur County,OR,Tracking
+S181,PV System,0.966,0.95,0.976,28.1,35.44,-77.99,20,Wayne County,NC,Fixed
+S182,PV System,>0.99,>0.99,>0.99,28.1,36.42,-78.26,20,Warren County,NC,Fixed
+S183,PV System,0.94,0.922,0.958,73.5,34.06,-117.75,15,Los Angeles County,CA,Fixed
+S184,PV System,0.936,0.929,0.95,36.4,36.1,-119.57,10,Kings County,CA,Fixed
+S185,PV System,0.908,0.894,0.916,56.2,36.1,-119.57,10,Kings County,CA,Fixed
+S186,PV System,0.924,0.907,0.938,97,36.1,-119.57,30,Kings County,CA,Fixed
+S187,PV System,0.916,0.91,0.932,33.2,36.09,-119.57,35,Kings County,CA,Fixed
+S188,PV System,0.904,0.892,0.929,48.7,36.1,-119.57,10,Kings County,CA,Fixed
+S189,PV System,0.94,0.925,0.96,61.5,38.59,-121.46,9,Sacramento County,CA,Fixed
+S190,PV System,0.942,0.933,0.956,96.7,35.4,-119.07,5,Kern County,CA,Fixed
+S191,PV System,0.95,0.944,0.971,81,37.29,-121.88,10,Santa Clara County,CA,Fixed
+S192,PV System,0.927,0.916,0.945,66.1,37.34,-120.6,0,Merced County,CA,Fixed
+S193,PV System,0.9,0.883,0.933,76.9,37.36,-120.6,10,Merced County,CA,Fixed
+S194,PV System,0.948,0.94,0.958,76.8,37.36,-120.59,10,Merced County,CA,Fixed
+S195,PV System,>0.99,>0.99,>0.99,44.9,32.28,-84.13,0,Macon County,GA,Fixed
+S196,PV System,0.968,0.955,0.979,50.5,32.28,-84.13,30,Macon County,GA,Fixed
+S197,PV System,0.976,0.959,0.983,69.8,38.38,-75.53,22,Wicomico County,MD,Fixed
+S198,PV System,0.98,0.972,0.989,34.8,34.27,-118.45,10,Los Angeles County,CA,Fixed
+S199,Soiling Station,>0.99,>0.99,>0.99,12,39.83,-104.94,45,Adams County,CO,Fixed
+S200,Soiling Station,0.969,0.967,0.97,19.6,37.36,-120.41,0,Merced County,CA,Tracking
+S201,Soiling Station,0.964,0.963,0.965,7.3,34,-117.34,26,Riverside County,CA,Fixed
+S202,Soiling Station,0.975,0.974,0.976,12,33.17,-115.45,0,Imperial County,CA,Tracking
+S203,Soiling Station,0.988,0.987,0.989,13,36.72,-120.42,0,Fresno County,CA,Tracking
+S204,Soiling Station,>0.99,>0.99,>0.99,17.9,34.79,-118.51,0,Los Angeles County,CA,Tracking
+S205,Soiling Station,>0.99,>0.99,>0.99,14,35.38,-120.06,25,San Luis Obispo County,CA,Fixed
+S206,Soiling Station,>0.99,>0.99,>0.99,32,32.37,-111.28,0,Pima County,AZ,Tracking
+S207,Soiling Station,0.95,0.947,0.954,15.8,35.11,-118.95,20,Kern County,CA,Fixed
+S208,Soiling Station,0.97,0.967,0.972,20.9,35.3,-118.85,20,Kern County,CA,Fixed
+S209,Soiling Station,>0.99,>0.99,>0.99,9.9,33.3,-111.67,35,Maricopa County,AZ,Fixed
+S210,PV System,>0.99,>0.99,>0.99,68.4,32.69,-114.65,2,Yuma County,AZ,Fixed
+S211,PV System,>0.99,>0.99,>0.99,57.9,34.58,-117.96,7,Los Angeles County,CA,Fixed
+S212,PV System,>0.99,>0.99,>0.99,53.2,32.21,-110.97,12,Pima County,AZ,Fixed
+S213,PV System,>0.99,>0.99,>0.99,48.9,32.24,-110.93,12,Pima County,AZ,Fixed
+S214,PV System,>0.99,>0.99,>0.99,47.3,32.22,-110.95,12,Pima County,AZ,Fixed
+S215,PV System,>0.99,>0.99,>0.99,41.8,32.16,-111.06,12,Pima County,AZ,Fixed
+S216,PV System,>0.99,>0.99,>0.99,32.7,32.27,-110.97,3,Pima County,AZ,Fixed
+S217,PV System,>0.99,>0.99,>0.99,43,42.15,-71.89,20,Worcester County,MA,Fixed
+S218,PV System,>0.99,>0.99,>0.99,34.8,42.16,-71.86,20,Worcester County,MA,Fixed
+S219,PV System,>0.99,>0.99,>0.99,34.3,42.16,-71.86,20,Worcester County,MA,Fixed
+S220,PV System,>0.99,>0.99,>0.99,34.3,42.16,-71.86,20,Worcester County,MA,Fixed
+S221,PV System,>0.99,>0.99,>0.99,34.2,42.16,-71.86,20,Worcester County,MA,Fixed
+S222,PV System,>0.99,>0.99,>0.99,33.2,42.16,-71.86,20,Worcester County,MA,Fixed
+S223,PV System,>0.99,>0.99,>0.99,33.6,39.27,-74.65,25,Cape May County,NJ,Fixed
+S224,PV System,>0.99,>0.99,>0.99,32.5,39.26,-74.73,25,Cape May County,NJ,Fixed
+S225,PV System,>0.99,>0.99,>0.99,32.7,39.27,-74.65,25,Cape May County,NJ,Fixed
+S226,PV System,>0.99,>0.99,>0.99,39.3,40.49,-74.44,10,Middlesex County,NJ,Fixed
+S227,PV System,>0.99,>0.99,>0.99,48.3,40.84,-75.07,10,Warren County,NJ,Fixed
+S228,PV System,>0.99,>0.99,>0.99,44.9,40.84,-75.07,10,Warren County,NJ,Fixed
+S229,PV System,>0.99,>0.99,>0.99,40.1,39.42,-74.64,25,Atlantic County,NJ,Fixed
+S230,PV System,>0.99,>0.99,>0.99,29,39.49,-75.22,25,Cumberland County,NJ,Fixed
+S231,PV System,>0.99,>0.99,>0.99,42.5,39.42,-74.64,20,Atlantic County,NJ,Fixed
+S232,PV System,>0.99,>0.99,>0.99,33,40.55,-74.47,5,Middlesex County,NJ,Fixed
+S233,PV System,>0.99,>0.99,>0.99,35,39.84,-75.06,30,Camden County,NJ,Fixed
+S234,PV System,>0.99,>0.99,>0.99,34.1,41.75,-71.11,1,Bristol County,MA,Fixed
+S235,PV System,>0.99,>0.99,>0.99,49.4,28.37,-81.42,5,Orange County,FL,Fixed
+S236,PV System,>0.99,>0.99,>0.99,111.5,39.11,-122.91,20,Lake County,CA,Tracking
+S237,PV System,>0.99,>0.99,>0.99,112.1,35.81,-78.75,0,Wake County,NC,Tracking
+S238,PV System,>0.99,>0.99,>0.99,89.8,28.53,-80.68,0,Brevard County,FL,Fixed
+S239,PV System,>0.99,>0.99,>0.99,94.9,40.65,-122.33,20,Shasta County,CA,Tracking
+S240,PV System,>0.99,>0.99,>0.99,108.7,34.61,-118.14,10,Los Angeles County,CA,Fixed
+S241,PV System,>0.99,>0.99,>0.99,111.7,34.6,-118.15,10,Los Angeles County,CA,Fixed
+S242,PV System,>0.99,>0.99,>0.99,88.4,33.53,-117.19,0,Riverside County,CA,Tracking
+S243,PV System,>0.99,>0.99,>0.99,88.7,37.69,-105.89,20,Alamosa County,CO,Tracking
+S244,PV System,>0.99,>0.99,>0.99,18.3,42.18,-71.45,20,Middlesex County,MA,Fixed
+S245,PV System,>0.99,>0.99,>0.99,20.5,32.61,-96.74,20,Dallas County,TX,Fixed
+S246,PV System,>0.99,>0.99,>0.99,37.2,37.69,-105.88,0,Alamosa County,CO,Tracking
+S247,PV System,>0.99,>0.99,>0.99,23.3,29.68,-82.29,15,Alachua County,FL,Fixed
+S248,PV System,>0.99,>0.99,>0.99,45.3,36.41,-78.59,0,Granville County,NC,Tracking
+S249,PV System,>0.99,>0.99,>0.99,36.9,38.66,-75.41,20,Sussex County,DE,Fixed
+S250,PV System,>0.99,>0.99,>0.99,23.8,32.43,-83.66,20,Houston County,GA,Fixed
+S251,PV System,>0.99,>0.99,>0.99,10.5,42.91,-71.94,30,Hillsborough County,NH,Fixed
+S252,PV System,>0.99,>0.99,>0.99,13.3,29.32,-100.39,0,Kinney County,TX,Tracking
+S253,PV System,>0.99,>0.99,>0.99,15.8,40.76,-73.19,10,Suffolk County,NY,Fixed
+S254,PV System,>0.99,>0.99,>0.99,19.1,40.67,-75.3,30,Northampton County,PA,Fixed
+S255,PV System,>0.99,>0.99,>0.99,45.6,38.55,-76.8,20,Charles County,MD,Fixed

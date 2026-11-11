@@ -1,0 +1,17 @@
+{
+ "FINAL | Ridge regression": {
+  "ridge__alpha": 10
+ },
+ "FINAL | Random Forest": {
+  "max_depth": null,
+  "max_features": 0.3,
+  "min_samples_leaf": 10
+ },
+ "FINAL | XGBoost": {
+  "colsample_bytree": 0.6,
+  "learning_rate": 0.03,
+  "max_depth": 2,
+  "min_child_weight": 5,
+  "subsample": 0.8
+ }
+}
